@@ -1,0 +1,5 @@
+api.github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	0	19144	1685630229474,1,1,2
+www.eff.org:HSTS	0	19144	1717164894462,1,1,2
+alive.github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	0	19144	1685630227015,1,0,2
+github.com^partitionKey=%28http%2Cgithub.com%29:HSTS	0	19144	1685630290712,1,1,2
+raw.githubusercontent.com^partitionKey=%28http%2Craw.githubusercontent.com%29:HSTS	0	19144	1685630100747,1,0,2
